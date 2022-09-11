@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdrianMargarit;
-- 👀 I’m interested in becoming a Full Stack Developer;
+- 👀 I’m interested in becoming a Cyber Security Specialist;
 - 🌱 I’m currently learning Databases and Software Technologies at University of Bucharest;
 - 💞️ I’m looking for internships so i can learn more, and for a stable job;
 - 📫 How to reach me: linkedin.com/in/adrian-margarit-65413b202;
