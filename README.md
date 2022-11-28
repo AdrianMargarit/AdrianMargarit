@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AdrianMargarit;
 - 👀 I’m interested in becoming a Cyber Security Specialist;
 - 🌱 I’m currently learning Databases and Software Technologies at University of Bucharest;
-- 💞️ I’m looking for opportunities to learn as much as possible about Cyber Security and Ethical Hacking;
+- 💞️ I’m looking for opportunities to work in the field of Cyber Security;
+- 💞️ I’m very eager to learn as much as possible about Cyber Security and Ethical Hacking;
 - 📫 How to reach me: linkedin.com/in/adrian-margarit-65413b202;
 
 <!---
