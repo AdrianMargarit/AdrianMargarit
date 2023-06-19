@@ -4,7 +4,7 @@
 - 💞️ I’m looking for opportunities to work in the field of AI/ML;
 - 💞️ I’m very eager to learn as much as possible about AI/ML;
 - 💞️ In my free time I engage in various ethical hacking challenges and laboratories;
-- 💞️ I’m really enthusiastic when it comes to Cyber Security and Ethical Hacking;
+- 💞️ I’m really enthusiastic when it comes to AI/ML, Cyber Security and Ethical Hacking;
 - 📫 How to reach me: linkedin.com/in/adrian-margarit-65413b202;
 
 <!---
