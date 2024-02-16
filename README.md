@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @AdrianMargarit;
-- 👀 I’m interested in becoming a Cybersecurity professional, focused on Ethical Hacking, Penetration Testing and Red Teaming;
-- 👀 I’m looking forward to getting my OSCP, CISSP, CISM certifications;
-- 👀 I’m a CISO aspirant;
-- 🌱 I’m currently studying in the Masters program of Computer Science at the University of Bucharest;
-- 💞️ I’m looking for opportunities to work in the field of Cybersecurity;
-- 💞️ I’m very eager to learn as much as possible about Ethical Hacking;
-- 💞️ In my free time I engage in various Ethical Hacking challenges and laboratories;
-- 💞️ I’m really enthusiastic when it comes to Cyber Security, Ethical Hacking, Penetration Testing and Red Teaming;
+- 👀 I’m interested in becoming a Software Developer, with an emphasis on Full Stack Web Development and Mobile Development, combining Coding and DevOps best practices;
+- 👀 I’m a Coding and Ethical Hacking hobbyist;
+- 👀 I’m a Software Architect aspirant;
+- 🌱 I’ve studied in the Bachelor's and Master's program of Computer Science at the University of Bucharest;
+- 💞️ I’m looking for opportunities to work in the field of Software Development, with an emphasis on Full Stack Web Development and Mobile Development, combining Coding and DevOps best practices;
+- 💞️ I’m very eager to learn as much as possible about Software Development, Full Stack Web Development, Mobile Development, Coding and DevOps;
+- 💞️ In my free time I engage in various Coding and Ethical Hacking challenges and laboratories;
+- 💞️ I’m really enthusiastic when it comes to Software Development, Full Stack Web Development, Mobile Development, Coding and DevOps;
 - 📫 How to reach me: linkedin.com/in/adrian-margarit-65413b202;
 
 <!---
